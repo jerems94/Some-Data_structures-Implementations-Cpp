@@ -1,4 +1,4 @@
-# Trees-Implementations-Cpp
+# Some Data Structures-Implementations-Cpp
 
 generic_tree : implementation of self balancing AVL tree with rotations.
 rank_tree : use of the AVL with additional information in each nodes which improves some operations complexity.
